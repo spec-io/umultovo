@@ -1,0 +1,17 @@
+services:
+  app:
+    build:
+      context: .
+    hostname: umultovo.local
+    user: "${LOCAL_UID:-1000}:${LOCAL_GID:-1000}"
+    environment:
+      RCN_CONTAINER: "1"
+    ports:
+      - "127.0.0.1:8081:8080"
+    volumes:
+      - ./Data:/app/Data
+    healthcheck:
+      test: ["CMD", "wget", "-q", "-O", "/dev/null", "http://127.0.0.1:8080/"]
+      interval: 30s
+      timeout: 5s
+      retries: 3

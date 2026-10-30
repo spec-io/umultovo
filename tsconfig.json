@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "none",
+    "lib": ["ES2020", "DOM"],
+    "strict": true,
+    "outFile": "page.js",
+    "noEmitOnError": true
+  },
+  "files": ["web/app.ts"]
+}

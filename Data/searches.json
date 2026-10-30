@@ -1,0 +1,40 @@
+[
+  {
+    "id": "umultowo-2-38-500m",
+    "name": "Umultowo",
+    "description": "Działka 306401_1.0050.AR_02.2/38; promień 500 m.",
+    "mode": "radius",
+    "parcel": "306401_1.0050.AR_02.2/38",
+    "radius": 500,
+    "files": [
+      "Data/CSV/okolica_2-38_500m-transakcje.csv",
+      "Data/CSV/okolica_2-38_500m-obiekty.csv"
+    ],
+    "objects": "Data/CSV/okolica_2-38_500m-obiekty.csv",
+    "transactions": "Data/CSV/okolica_2-38_500m-transakcje.csv",
+    "default": true
+  },
+  {
+    "id": "winogrady-ulice-archiwum",
+    "name": "Winogrady",
+    "description": "Archiwalny filtr transakcji ulicami. Dla nowych danych: środek 52.4263,16.9351 i promień 1 050 m (zapas ok. 100 m).",
+    "mode": "streets",
+    "center": "52.4263,16.9351",
+    "radius": 1050,
+    "streets": [
+      "Pszczelna",
+      "Zagonowa",
+      "Winna",
+      "Warzywna",
+      "Pasieka",
+      "Sadowa",
+      "Gronowa",
+      "Wyżyny",
+      "Winogrady"
+    ],
+    "files": [
+      "Data/CSV/stare_winogrady.csv"
+    ],
+    "transactions": "Data/CSV/stare_winogrady.csv"
+  }
+]

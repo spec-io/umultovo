@@ -1,0 +1,10 @@
+{
+  "name": "umultovo-rcn-page",
+  "private": true,
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
