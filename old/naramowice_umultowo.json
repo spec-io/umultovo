@@ -1,0 +1,497 @@
+[
+    {
+        "data_aktu":  "2025-03-12",
+        "notariusz":  "Siennicki Mikołaj KANCELARIA NOTARIALNA",
+        "oznaczenie_dokumentu":  "2327 (21474)",
+        "numer_transakcji":  "1118",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "4",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  935000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.0238,
+        "cena_nieruchomosci_brutto":  null,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0050.AR_09.28/4.1_BUD",
+                            "ulica":  "ul. Rubież",
+                            "numer":  "27B",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0050.AR_09.28/4",
+                            "ulica":  "ul. Rubież",
+                            "numer":  "27B",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0238,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2025.gml"
+    },
+    {
+        "data_aktu":  "2025-09-12",
+        "notariusz":  "Siennicki Mikołaj KANCELARIA NOTARIALNA",
+        "oznaczenie_dokumentu":  "8837 (21474)",
+        "numer_transakcji":  "139097",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  "wtorny",
+        "strona_sprzedajaca":  "4",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  950000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.0242,
+        "cena_nieruchomosci_brutto":  null,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0050.AR_09.28/5.1_BUD",
+                            "ulica":  "ul. Rubież",
+                            "numer":  "27C",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  128
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0050.AR_09.28/5",
+                            "ulica":  "ul. Rubież",
+                            "numer":  "27C",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0242,
+                            "sposob_uzytkowania":  "grunt_zabudowany",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2025.gml"
+    },
+    {
+        "data_aktu":  "2025-03-12",
+        "notariusz":  "Siennicki Mikołaj KANCELARIA NOTARIALNA",
+        "oznaczenie_dokumentu":  "2335 (21474)",
+        "numer_transakcji":  "1133",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "4",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  900000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.0259,
+        "cena_nieruchomosci_brutto":  null,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0050.AR_09.28/6.1_BUD",
+                            "ulica":  "ul. Rubież",
+                            "numer":  "27D",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0050.AR_09.28/6",
+                            "ulica":  "ul. Rubież",
+                            "numer":  "27D",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0259,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2025.gml"
+    },
+    {
+        "data_aktu":  "2025-03-14",
+        "notariusz":  "ARCH- Lis Szymon, Nowak Gracjan Cezary Kancelaria Notarialna",
+        "oznaczenie_dokumentu":  "2687 (125041)",
+        "numer_transakcji":  "1031",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  1090000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.0459,
+        "cena_nieruchomosci_brutto":  1090000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0050.AR_09.15/1.1_BUD",
+                            "ulica":  "ul. Rubież",
+                            "numer":  "9b",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        },
+                        {
+                            "id_budynku":  "306401_1.0050.AR_09.15/1.2_BUD",
+                            "ulica":  null,
+                            "numer":  null,
+                            "rodzaj_budynku":  "goscinne",
+                            "pow_uzytkowa_m2":  null
+                        },
+                        {
+                            "id_budynku":  "306401_1.0050.AR_09.15/1.3_BUD",
+                            "ulica":  null,
+                            "numer":  null,
+                            "rodzaj_budynku":  "goscinne",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0050.AR_09.15/1",
+                            "ulica":  "ul. Rubież",
+                            "numer":  "9b",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0459,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2025.gml"
+    },
+    {
+        "data_aktu":  "2025-03-07",
+        "notariusz":  "Siennicki Mikołaj KANCELARIA NOTARIALNA",
+        "oznaczenie_dokumentu":  "2143 (21474)",
+        "numer_transakcji":  "1115",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "4",
+        "cena_transakcji_brutto":  2785000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.2303,
+        "cena_nieruchomosci_brutto":  2785000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0050.AR_09.28/3.1_BUD",
+                            "ulica":  "ul. Rubież",
+                            "numer":  "27A",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        },
+                        {
+                            "id_budynku":  "306401_1.0050.AR_09.28/4.1_BUD",
+                            "ulica":  "ul. Rubież",
+                            "numer":  "27B",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        },
+                        {
+                            "id_budynku":  "306401_1.0050.AR_09.28/5.1_BUD",
+                            "ulica":  "ul. Rubież",
+                            "numer":  "27C",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        },
+                        {
+                            "id_budynku":  "306401_1.0050.AR_09.28/6.1_BUD",
+                            "ulica":  "ul. Rubież",
+                            "numer":  "27D",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0050.AR_09.28/1",
+                            "ulica":  null,
+                            "numer":  null,
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0512,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        },
+                        {
+                            "id_dzialki":  "306401_1.0050.AR_09.28/2",
+                            "ulica":  null,
+                            "numer":  null,
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0133,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        },
+                        {
+                            "id_dzialki":  "306401_1.0050.AR_09.28/3",
+                            "ulica":  "ul. Rubież",
+                            "numer":  "27A",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0257,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        },
+                        {
+                            "id_dzialki":  "306401_1.0050.AR_09.28/4",
+                            "ulica":  "ul. Rubież",
+                            "numer":  "27B",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0238,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        },
+                        {
+                            "id_dzialki":  "306401_1.0050.AR_09.28/5",
+                            "ulica":  "ul. Rubież",
+                            "numer":  "27C",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0242,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        },
+                        {
+                            "id_dzialki":  "306401_1.0050.AR_09.28/6",
+                            "ulica":  "ul. Rubież",
+                            "numer":  "27D",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0259,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        },
+                        {
+                            "id_dzialki":  "306401_1.0050.AR_09.28/7",
+                            "ulica":  null,
+                            "numer":  null,
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0662,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2025.gml"
+    },
+    {
+        "data_aktu":  "2025-01-28",
+        "notariusz":  "Zielińska Ilona Teresa KANCELARIA NOTARIALNA",
+        "oznaczenie_dokumentu":  "647 (21339)",
+        "numer_transakcji":  "133",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  1000,
+        "rodzaj_nieruchomosci":  "niezabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.0825,
+        "cena_nieruchomosci_brutto":  1000,
+        "budynki":  [
+
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0056.AR_25.396/47",
+                            "ulica":  "ul. Malachitowa",
+                            "numer":  null,
+                            "przeznaczenie_mpzp":  "MN",
+                            "pow_ewidencyjna_ha":  0.0825,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  1000
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2025.gml"
+    },
+    {
+        "data_aktu":  "2025-03-18",
+        "notariusz":  "Siennicki Mikołaj KANCELARIA NOTARIALNA",
+        "oznaczenie_dokumentu":  "2695 (21474)",
+        "numer_transakcji":  "1276",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "os_prawna",
+        "cena_transakcji_brutto":  85855,
+        "rodzaj_nieruchomosci":  "niezabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.0319,
+        "cena_nieruchomosci_brutto":  85855,
+        "budynki":  [
+
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0056.AR_25.393/17",
+                            "ulica":  "ul. Malachitowa",
+                            "numer":  null,
+                            "przeznaczenie_mpzp":  "KD",
+                            "pow_ewidencyjna_ha":  0.0087,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  23415
+                        },
+                        {
+                            "id_dzialki":  "306401_1.0056.AR_25.393/20",
+                            "ulica":  "ul. Radłowa",
+                            "numer":  null,
+                            "przeznaczenie_mpzp":  "KD",
+                            "pow_ewidencyjna_ha":  0.0232,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  62440
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2025.gml"
+    },
+    {
+        "data_aktu":  "2026-03-30",
+        "notariusz":  "Łużyńska-Sawarzyńska Magdalena KANCELARIA NOTARIALNA",
+        "oznaczenie_dokumentu":  "8088 (20272)",
+        "numer_transakcji":  "144454",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  "wtorny",
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  500000,
+        "rodzaj_nieruchomosci":  "niezabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.0587,
+        "cena_nieruchomosci_brutto":  500000,
+        "budynki":  [
+
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0050.AR_09.24/5",
+                            "ulica":  "ul. Rubież",
+                            "numer":  "21b",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0587,
+                            "sposob_uzytkowania":  "grunt_zabudowany",
+                            "cena_dzialki_brutto":  500000
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2026.gml"
+    },
+    {
+        "data_aktu":  "2026-04-30",
+        "notariusz":  "Hrycaj-Dzieciuchowicz Sława Kancelaria Notarialna ",
+        "oznaczenie_dokumentu":  "1173 (136817)",
+        "numer_transakcji":  "145222",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  "wtorny",
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  510000,
+        "rodzaj_nieruchomosci":  "niezabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.0703,
+        "cena_nieruchomosci_brutto":  510000,
+        "budynki":  [
+
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0050.AR_09.74/1",
+                            "ulica":  "ul. Rubież",
+                            "numer":  "37a",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0703,
+                            "sposob_uzytkowania":  "grunt_zabudowany",
+                            "cena_dzialki_brutto":  510000
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2026.gml"
+    },
+    {
+        "data_aktu":  "2026-03-30",
+        "notariusz":  "Łużyńska-Sawarzyńska Magdalena KANCELARIA NOTARIALNA",
+        "oznaczenie_dokumentu":  "8080 (20272)",
+        "numer_transakcji":  "144459",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  "wtorny",
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  740000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.1272,
+        "cena_nieruchomosci_brutto":  740000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0050.AR_09.25.8_BUD",
+                            "ulica":  null,
+                            "numer":  null,
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        },
+                        {
+                            "id_budynku":  "306401_1.0050.AR_09.25.15_BUD",
+                            "ulica":  "ul. Rubież",
+                            "numer":  "23",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        },
+                        {
+                            "id_budynku":  "306401_1.0050.AR_09.25.14_BUD",
+                            "ulica":  null,
+                            "numer":  null,
+                            "rodzaj_budynku":  "goscinne",
+                            "pow_uzytkowa_m2":  null
+                        },
+                        {
+                            "id_budynku":  "306401_1.0050.AR_09.25.9_BUD",
+                            "ulica":  null,
+                            "numer":  null,
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0050.AR_09.25",
+                            "ulica":  "ul. Rubież",
+                            "numer":  "23",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.1272,
+                            "sposob_uzytkowania":  "grunt_zabudowany",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2026.gml"
+    }
+]

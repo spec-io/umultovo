@@ -1,0 +1,1560 @@
+[
+    {
+        "data_aktu":  "2023-04-14",
+        "notariusz":  "Marchwicki Krzysztof Kancelaria Notarialna",
+        "oznaczenie_dokumentu":  "1472 (21445)",
+        "numer_transakcji":  "1363",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  1550000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.0323,
+        "cena_nieruchomosci_brutto":  1550000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_23.76/2.2_BUD",
+                            "ulica":  "ul. Pasieka",
+                            "numer":  "26b",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_23.75/3",
+                            "ulica":  null,
+                            "numer":  null,
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.002,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        },
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_23.76/2",
+                            "ulica":  "ul. Pasieka",
+                            "numer":  "26b",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0223,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        },
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_23.77/2",
+                            "ulica":  null,
+                            "numer":  null,
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.008,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2022-08-12",
+        "notariusz":  "Marciniak Małgorzata NOTARIUSZ Kancelaria Notarialna",
+        "oznaczenie_dokumentu":  "1525 (21443)",
+        "numer_transakcji":  "4440",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  715000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.0384,
+        "cena_nieruchomosci_brutto":  715000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_23.129/2.1_BUD",
+                            "ulica":  "ul. Sadowa",
+                            "numer":  "8a",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_23.129/2",
+                            "ulica":  "ul. Sadowa",
+                            "numer":  "8a",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0384,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2021-08-23",
+        "notariusz":  "Matecka-Kotecka Joanna Kancelaria Notarialna",
+        "oznaczenie_dokumentu":  "6055 (30966)",
+        "numer_transakcji":  "14432",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  210000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.0408,
+        "cena_nieruchomosci_brutto":  210000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_23.116/1.1_BUD",
+                            "ulica":  "ul. Gronowa",
+                            "numer":  "23",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_23.116/1",
+                            "ulica":  "ul. Gronowa",
+                            "numer":  "23",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0408,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2025-08-22",
+        "notariusz":  "Sajda Wojciech Musiałkiewicz Dorota KANCELARIA NOTARIALNA",
+        "oznaczenie_dokumentu":  "8199 (20123)",
+        "numer_transakcji":  "5733",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  1280000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.04,
+        "cena_nieruchomosci_brutto":  1280000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_31.40.1_BUD",
+                            "ulica":  "ul. Winogrady",
+                            "numer":  "96a",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_31.40",
+                            "ulica":  "ul. Winogrady",
+                            "numer":  "96a",
+                            "przeznaczenie_mpzp":  "MN",
+                            "pow_ewidencyjna_ha":  0.04,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2023-01-25",
+        "notariusz":  "Tupaj Dorota Kancelaria Notarialna",
+        "oznaczenie_dokumentu":  "133 (21134)",
+        "numer_transakcji":  "68",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  1580000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.036,
+        "cena_nieruchomosci_brutto":  1580000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_32.61/4.1_BUD",
+                            "ulica":  "ul. Winna",
+                            "numer":  "10",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        },
+                        {
+                            "id_budynku":  "306401_1.0052.AR_32.61/4.2_BUD",
+                            "ulica":  null,
+                            "numer":  null,
+                            "rodzaj_budynku":  "goscinne",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_32.61/4",
+                            "ulica":  "ul. Winna",
+                            "numer":  "10",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.036,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2022-05-19",
+        "notariusz":  "Siennicki Mikołaj KANCELARIA NOTARIALNA",
+        "oznaczenie_dokumentu":  "5322 (21474)",
+        "numer_transakcji":  "2646",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  1200000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.0418,
+        "cena_nieruchomosci_brutto":  1200000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_23.140/1.1_BUD",
+                            "ulica":  "ul. Sadowa",
+                            "numer":  "5a",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        },
+                        {
+                            "id_budynku":  "306401_1.0052.AR_23.140/1.2_BUD",
+                            "ulica":  null,
+                            "numer":  null,
+                            "rodzaj_budynku":  "magazynowe",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_23.140/3",
+                            "ulica":  null,
+                            "numer":  null,
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0003,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        },
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_23.140/5",
+                            "ulica":  "ul. Sadowa",
+                            "numer":  "5a",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.032,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        },
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_23.140/7",
+                            "ulica":  null,
+                            "numer":  null,
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0095,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2021-09-28",
+        "notariusz":  "Dubiel-Głuszczuk Agnieszka Staniewska Marta KANCELARIA NOTARIALNA s.c.",
+        "oznaczenie_dokumentu":  "4045 (21633)",
+        "numer_transakcji":  "13198",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  1200000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.0391,
+        "cena_nieruchomosci_brutto":  1200000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_23.126/2.2_BUD",
+                            "ulica":  "ul. Sadowa",
+                            "numer":  "14",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_23.126/2",
+                            "ulica":  "ul. Sadowa",
+                            "numer":  "14",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0391,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2022-10-24",
+        "notariusz":  "Jackowski Adam KANCELARIA NOTARIALNA",
+        "oznaczenie_dokumentu":  "3775 (20920)",
+        "numer_transakcji":  "6367",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  1000000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.0408,
+        "cena_nieruchomosci_brutto":  1000000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_23.116/1.1_BUD",
+                            "ulica":  "ul. Gronowa",
+                            "numer":  "23",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_23.116/1",
+                            "ulica":  "ul. Gronowa",
+                            "numer":  "23",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0408,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2021-11-27",
+        "notariusz":  "Dębski Marcin Arcyman-Małkowska Agnieszka Kancelaria Notarialna",
+        "oznaczenie_dokumentu":  "8347 (21463)",
+        "numer_transakcji":  "16879",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  200000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/2",
+        "pow_gruntowa_ha":  0.0625,
+        "cena_nieruchomosci_brutto":  200000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_31.17/1.2_BUD",
+                            "ulica":  null,
+                            "numer":  null,
+                            "rodzaj_budynku":  "handlowe",
+                            "pow_uzytkowa_m2":  null
+                        },
+                        {
+                            "id_budynku":  "306401_1.0052.AR_31.17/1.3_BUD",
+                            "ulica":  "ul. Winogrady",
+                            "numer":  "62",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_31.17/1",
+                            "ulica":  "ul. Winogrady",
+                            "numer":  "62",
+                            "przeznaczenie_mpzp":  "MN",
+                            "pow_ewidencyjna_ha":  0.0625,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2023-02-06",
+        "notariusz":  "Kwarciński Wojciech, Nowak Marta Kancelaria Notarialna",
+        "oznaczenie_dokumentu":  "633 (125484)",
+        "numer_transakcji":  "88",
+        "rodzaj_transakcji":  "4",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  286000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/2",
+        "pow_gruntowa_ha":  0.0257,
+        "cena_nieruchomosci_brutto":  286000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_33.20.1_BUD",
+                            "ulica":  "ul. Winogrady",
+                            "numer":  "25",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        },
+                        {
+                            "id_budynku":  "306401_1.0052.AR_33.20.2_BUD",
+                            "ulica":  null,
+                            "numer":  null,
+                            "rodzaj_budynku":  "lecznictwo",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_33.20",
+                            "ulica":  "ul. Winogrady",
+                            "numer":  "25",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0257,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2025-03-04",
+        "notariusz":  "Dynowski Krzysztof Notariusz Kancelaria Notarialna",
+        "oznaczenie_dokumentu":  "1163 (21130)",
+        "numer_transakcji":  "1338",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "4",
+        "strona_kupujaca":  "4",
+        "cena_transakcji_brutto":  2590000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.0417,
+        "cena_nieruchomosci_brutto":  2590000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_23.115/1.1_BUD",
+                            "ulica":  "ul. Gronowa",
+                            "numer":  "29",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_23.115/1",
+                            "ulica":  "ul. Gronowa",
+                            "numer":  "29",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0417,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2025-11-06",
+        "notariusz":  "Sajda Wojciech Musiałkiewicz Dorota KANCELARIA NOTARIALNA",
+        "oznaczenie_dokumentu":  "10930 (20123)",
+        "numer_transakcji":  "140323",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  "wtorny",
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  1155714.75,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "6/16",
+        "pow_gruntowa_ha":  0.1103,
+        "cena_nieruchomosci_brutto":  1155714.75,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_30.100/2.1_BUD",
+                            "ulica":  "ul. Winogrady",
+                            "numer":  "102a",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        },
+                        {
+                            "id_budynku":  "306401_1.0052.AR_30.100/2.2_BUD",
+                            "ulica":  null,
+                            "numer":  null,
+                            "rodzaj_budynku":  "magazynowe",
+                            "pow_uzytkowa_m2":  null
+                        },
+                        {
+                            "id_budynku":  "306401_1.0052.AR_30.100/1.2_BUD",
+                            "ulica":  null,
+                            "numer":  null,
+                            "rodzaj_budynku":  "magazynowe",
+                            "pow_uzytkowa_m2":  null
+                        },
+                        {
+                            "id_budynku":  "306401_1.0052.AR_30.100/1.1_BUD",
+                            "ulica":  "ul. Winogrady",
+                            "numer":  "102",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_30.100/1",
+                            "ulica":  "ul. Winogrady",
+                            "numer":  "102",
+                            "przeznaczenie_mpzp":  "MN",
+                            "pow_ewidencyjna_ha":  0.0539,
+                            "sposob_uzytkowania":  "grunt_zabudowany",
+                            "cena_dzialki_brutto":  null
+                        },
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_30.100/2",
+                            "ulica":  "ul. Winogrady",
+                            "numer":  "102a",
+                            "przeznaczenie_mpzp":  "MN",
+                            "pow_ewidencyjna_ha":  0.0564,
+                            "sposob_uzytkowania":  "grunt_zabudowany",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2023-12-28",
+        "notariusz":  "Tomczak Paulina KANCELARIA NOTARIALNA",
+        "oznaczenie_dokumentu":  "4924 (21588)",
+        "numer_transakcji":  "9948",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "4",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  1270000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "3/5",
+        "pow_gruntowa_ha":  0.0417,
+        "cena_nieruchomosci_brutto":  1270000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_23.115/1.1_BUD",
+                            "ulica":  "ul. Gronowa",
+                            "numer":  "29",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_23.115/1",
+                            "ulica":  "ul. Gronowa",
+                            "numer":  "29",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0417,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2024-05-22",
+        "notariusz":  "Jackowski Adam KANCELARIA NOTARIALNA",
+        "oznaczenie_dokumentu":  "1478 (20920)",
+        "numer_transakcji":  "14848",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  160000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/4",
+        "pow_gruntowa_ha":  0.0327,
+        "cena_nieruchomosci_brutto":  150000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_23.57/3.3_BUD",
+                            "ulica":  "ul. Sadowa",
+                            "numer":  "38a",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_23.57/3",
+                            "ulica":  "ul. Sadowa",
+                            "numer":  "38a",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0327,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2024-01-22",
+        "notariusz":  "ŁUCZAK ARTUR KANCELARIA NOTARIALNA",
+        "oznaczenie_dokumentu":  "453 (21581)",
+        "numer_transakcji":  "10412",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  1090000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "7/12",
+        "pow_gruntowa_ha":  0.1,
+        "cena_nieruchomosci_brutto":  1090000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_28.48.5_BUD",
+                            "ulica":  "ul. Winogrady",
+                            "numer":  "141",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_28.48",
+                            "ulica":  "ul. Winogrady",
+                            "numer":  "141",
+                            "przeznaczenie_mpzp":  "MN",
+                            "pow_ewidencyjna_ha":  0.1,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2022-09-22",
+        "notariusz":  "Czabaj-Czarkowska Ewa KANCELARIA NOTARIALNA",
+        "oznaczenie_dokumentu":  "2657 (107203)",
+        "numer_transakcji":  "5227",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  1500000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.04,
+        "cena_nieruchomosci_brutto":  1500000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_33.139/2.1_BUD",
+                            "ulica":  null,
+                            "numer":  null,
+                            "rodzaj_budynku":  "goscinne",
+                            "pow_uzytkowa_m2":  null
+                        },
+                        {
+                            "id_budynku":  "306401_1.0052.AR_33.139/2.2_BUD",
+                            "ulica":  "ul. Zagonowa",
+                            "numer":  "19a",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_33.139/2",
+                            "ulica":  "ul. Zagonowa",
+                            "numer":  "19a",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.04,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2023-02-02",
+        "notariusz":  "Zieliński Wojciech KANCELARIA NOTARIALNA",
+        "oznaczenie_dokumentu":  "999 (21328)",
+        "numer_transakcji":  "150",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  585000,
+        "rodzaj_nieruchomosci":  "niezabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "-/-",
+        "pow_gruntowa_ha":  0.0282,
+        "cena_nieruchomosci_brutto":  585000,
+        "budynki":  [
+
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_23.50/3",
+                            "ulica":  null,
+                            "numer":  null,
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0108,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        },
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_23.51/2",
+                            "ulica":  "ul. Gronowa",
+                            "numer":  "57",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0174,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2022-04-28",
+        "notariusz":  "Tomaszkiewicz Zbigniew Tomaszkiewicz Michał Kancelaria Notarialna",
+        "oznaczenie_dokumentu":  "1424 (113877)",
+        "numer_transakcji":  "2669",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  2500000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.0345,
+        "cena_nieruchomosci_brutto":  2470000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_23.74/2.1_BUD",
+                            "ulica":  null,
+                            "numer":  null,
+                            "rodzaj_budynku":  "magazynowe",
+                            "pow_uzytkowa_m2":  null
+                        },
+                        {
+                            "id_budynku":  "306401_1.0052.AR_23.74/2.2_BUD",
+                            "ulica":  "ul. Sadowa",
+                            "numer":  "31",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_23.74/2",
+                            "ulica":  "ul. Sadowa",
+                            "numer":  "31",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0345,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2021-12-08",
+        "notariusz":  "Jaworska Hanna Gruszczyńska Marta Kancelaria Notarialna s.c.",
+        "oznaczenie_dokumentu":  "5574 (112287)",
+        "numer_transakcji":  "18148",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  1100000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.0325,
+        "cena_nieruchomosci_brutto":  1100000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_32.67/3.1_BUD",
+                            "ulica":  "ul. Winna",
+                            "numer":  "2a",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_32.66/3",
+                            "ulica":  "ul. Winna",
+                            "numer":  "2a",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0197,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        },
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_32.67/3",
+                            "ulica":  null,
+                            "numer":  null,
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0128,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2025-08-12",
+        "notariusz":  "Błażejczak Żdżarska Aleksandra Spaczyńska Beata Kancelaria Notarialna s.c.",
+        "oznaczenie_dokumentu":  "3037 (20649)",
+        "numer_transakcji":  "5215",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "4",
+        "strona_kupujaca":  "4",
+        "cena_transakcji_brutto":  12423000,
+        "rodzaj_nieruchomosci":  "niezabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.3426,
+        "cena_nieruchomosci_brutto":  12423000,
+        "budynki":  [
+
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_31.64",
+                            "ulica":  "ul. Winogrady",
+                            "numer":  "86",
+                            "przeznaczenie_mpzp":  "MN",
+                            "pow_ewidencyjna_ha":  0.3426,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  12423000
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2023-12-18",
+        "notariusz":  "Zielińska-Richter Agnieszka Kancelaria Notarialna",
+        "oznaczenie_dokumentu":  "6878 (118020)",
+        "numer_transakcji":  "9213",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  1600000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.0509,
+        "cena_nieruchomosci_brutto":  1600000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_30.107/2.1_BUD",
+                            "ulica":  "ul. Winogrady",
+                            "numer":  "116a",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_30.107/2",
+                            "ulica":  "ul. Winogrady",
+                            "numer":  "116a",
+                            "przeznaczenie_mpzp":  "MN",
+                            "pow_ewidencyjna_ha":  0.0509,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2025-04-25",
+        "notariusz":  "Janas Monika Fiedkiewicz Monika Spółka Cywilna Notariusze  Kancelaria Notarialna",
+        "oznaczenie_dokumentu":  "996 (143439)",
+        "numer_transakcji":  "2513",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  1979250,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.0458,
+        "cena_nieruchomosci_brutto":  1979250,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_23.132/2.1_BUD",
+                            "ulica":  "ul. Winogrady",
+                            "numer":  "71",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_23.132/2",
+                            "ulica":  "ul. Winogrady",
+                            "numer":  "71",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0458,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2022-09-13",
+        "notariusz":  "Radziuk Małgorzata Dzieciątkowski Kamil KANCELARIA NOTARIALNA",
+        "oznaczenie_dokumentu":  "2678 (21621)",
+        "numer_transakcji":  "5347",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  257000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.0408,
+        "cena_nieruchomosci_brutto":  257000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_23.116/1.1_BUD",
+                            "ulica":  "ul. Gronowa",
+                            "numer":  "23",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_23.116/1",
+                            "ulica":  "ul. Gronowa",
+                            "numer":  "23",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0408,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2021-12-16",
+        "notariusz":  "Zieliński Wojciech KANCELARIA NOTARIALNA",
+        "oznaczenie_dokumentu":  "19064 (21328)",
+        "numer_transakcji":  "18173",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "4",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  1300000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.031,
+        "cena_nieruchomosci_brutto":  1300000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_23.46/2.1_BUD",
+                            "ulica":  "ul. Gronowa",
+                            "numer":  "81",
+                            "rodzaj_budynku":  "transportu",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_23.46/2",
+                            "ulica":  "ul. Gronowa",
+                            "numer":  "81",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.031,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2023-07-11",
+        "notariusz":  "Zieliński Wojciech KANCELARIA NOTARIALNA",
+        "oznaczenie_dokumentu":  "5942 (21328)",
+        "numer_transakcji":  "4158",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  1200000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.0256,
+        "cena_nieruchomosci_brutto":  1200000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_32.82/3.1_BUD",
+                            "ulica":  "ul. Wyżyny",
+                            "numer":  "6",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        },
+                        {
+                            "id_budynku":  "306401_1.0052.AR_32.82/3.2_BUD",
+                            "ulica":  null,
+                            "numer":  null,
+                            "rodzaj_budynku":  "magazynowe",
+                            "pow_uzytkowa_m2":  null
+                        },
+                        {
+                            "id_budynku":  "306401_1.0052.AR_32.82/3.3_BUD",
+                            "ulica":  null,
+                            "numer":  null,
+                            "rodzaj_budynku":  "goscinne",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_32.82/3",
+                            "ulica":  "ul. Wyżyny",
+                            "numer":  "6",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0256,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2023-06-13",
+        "notariusz":  "Tota Anna Kancelaria Notarialna",
+        "oznaczenie_dokumentu":  "2812 (21039)",
+        "numer_transakcji":  "2720",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  335000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/2",
+        "pow_gruntowa_ha":  0.033,
+        "cena_nieruchomosci_brutto":  335000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_31.46.1_BUD",
+                            "ulica":  "ul. Winogrady",
+                            "numer":  "100a",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_31.46",
+                            "ulica":  "ul. Winogrady",
+                            "numer":  "100a",
+                            "przeznaczenie_mpzp":  "MN",
+                            "pow_ewidencyjna_ha":  0.033,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2025-09-19",
+        "notariusz":  "Tota Anna Kancelaria Notarialna",
+        "oznaczenie_dokumentu":  "5558 (21039)",
+        "numer_transakcji":  "5950",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  1675000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.0234,
+        "cena_nieruchomosci_brutto":  1675000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_23.80/2.1_BUD",
+                            "ulica":  "ul. Wyżyny",
+                            "numer":  "15",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_23.80/2",
+                            "ulica":  "ul. Wyżyny",
+                            "numer":  "15",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0234,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2024-07-03",
+        "notariusz":  "Tomaszkiewicz Michał Kancelaria Notarialna",
+        "oznaczenie_dokumentu":  "2175 (130565)",
+        "numer_transakcji":  "15865",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  300002,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "42948/345600",
+        "pow_gruntowa_ha":  0.0912,
+        "cena_nieruchomosci_brutto":  300002,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_23.162.1_BUD",
+                            "ulica":  "ul. Pszczelna",
+                            "numer":  "12",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        },
+                        {
+                            "id_budynku":  "306401_1.0052.AR_23.162.2_BUD",
+                            "ulica":  null,
+                            "numer":  null,
+                            "rodzaj_budynku":  "magazynowe",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_23.162",
+                            "ulica":  "ul. Pszczelna",
+                            "numer":  "12",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0912,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2021-07-29",
+        "notariusz":  "Pawelec Emilia Walkiewicz Mikołaj Kancelaria Notarialna Spółka cywilna",
+        "oznaczenie_dokumentu":  "3130 (21401)",
+        "numer_transakcji":  "13744",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  1300000.2,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.0306,
+        "cena_nieruchomosci_brutto":  1300000.2,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_23.150/1.1_BUD",
+                            "ulica":  null,
+                            "numer":  null,
+                            "rodzaj_budynku":  "magazynowe",
+                            "pow_uzytkowa_m2":  null
+                        },
+                        {
+                            "id_budynku":  "306401_1.0052.AR_23.150/1.2_BUD",
+                            "ulica":  "ul. Pasieka",
+                            "numer":  "4",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        },
+                        {
+                            "id_budynku":  "306401_1.0052.AR_23.150/1.3_BUD",
+                            "ulica":  null,
+                            "numer":  null,
+                            "rodzaj_budynku":  "handlowe",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_23.150/1",
+                            "ulica":  "ul. Pasieka",
+                            "numer":  "4",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0306,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2025-09-15",
+        "notariusz":  "Drewniak- Żaba Lilianna Notariusz Kancelaria Notarialna",
+        "oznaczenie_dokumentu":  "6193 (21287)",
+        "numer_transakcji":  "6549",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  "wtorny",
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  900000,
+        "rodzaj_nieruchomosci":  "niezabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.0445,
+        "cena_nieruchomosci_brutto":  900000,
+        "budynki":  [
+
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_32.33/1",
+                            "ulica":  "ul. Pszczelna",
+                            "numer":  "7a",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0445,
+                            "sposob_uzytkowania":  "grunt_zabudowany",
+                            "cena_dzialki_brutto":  900000
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2021-11-24",
+        "notariusz":  "Celichowska Dorota, Celichowski Maciej, Majchrzak Wioletta Kancelaria Notarialna",
+        "oznaczenie_dokumentu":  "10851 (20546)",
+        "numer_transakcji":  "17176",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  225000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "330/1800",
+        "pow_gruntowa_ha":  0.101,
+        "cena_nieruchomosci_brutto":  225000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_32.84.3_BUD",
+                            "ulica":  null,
+                            "numer":  null,
+                            "rodzaj_budynku":  "magazynowe",
+                            "pow_uzytkowa_m2":  null
+                        },
+                        {
+                            "id_budynku":  "306401_1.0052.AR_32.84.4_BUD",
+                            "ulica":  "ul. Zagonowa",
+                            "numer":  "18",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        },
+                        {
+                            "id_budynku":  "306401_1.0052.AR_32.84.5_BUD",
+                            "ulica":  null,
+                            "numer":  null,
+                            "rodzaj_budynku":  "lecznictwo",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_32.84",
+                            "ulica":  "ul. Zagonowa",
+                            "numer":  "18",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.101,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2024-01-23",
+        "notariusz":  "Gwiazda Magdalena Beger-Smurzyński Krzysztof Kancelaria Notarialna spółka cywiln",
+        "oznaczenie_dokumentu":  "82 (21296)",
+        "numer_transakcji":  "9955",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  null,
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  1600000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.0339,
+        "cena_nieruchomosci_brutto":  1600000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_31.27/2.2_BUD",
+                            "ulica":  null,
+                            "numer":  null,
+                            "rodzaj_budynku":  "goscinne",
+                            "pow_uzytkowa_m2":  null
+                        },
+                        {
+                            "id_budynku":  "306401_1.0052.AR_31.27/2.3_BUD",
+                            "ulica":  "ul. Winogrady",
+                            "numer":  "82",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_31.27/2",
+                            "ulica":  "ul. Winogrady",
+                            "numer":  "82",
+                            "przeznaczenie_mpzp":  "MN",
+                            "pow_ewidencyjna_ha":  0.0339,
+                            "sposob_uzytkowania":  "5",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2021-2025.gml"
+    },
+    {
+        "data_aktu":  "2026-01-28",
+        "notariusz":  "Peretiatkowicz Olaf KANCELARIA NOTARIALNA",
+        "oznaczenie_dokumentu":  "600 (20258)",
+        "numer_transakcji":  "142262",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  "wtorny",
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  3100000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.1001,
+        "cena_nieruchomosci_brutto":  3100000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_28.47.3_BUD",
+                            "ulica":  null,
+                            "numer":  null,
+                            "rodzaj_budynku":  "goscinne",
+                            "pow_uzytkowa_m2":  null
+                        },
+                        {
+                            "id_budynku":  "306401_1.0052.AR_28.47.2_BUD",
+                            "ulica":  "ul. Winogrady",
+                            "numer":  "139",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_28.47",
+                            "ulica":  "ul. Winogrady",
+                            "numer":  "139",
+                            "przeznaczenie_mpzp":  "MN",
+                            "pow_ewidencyjna_ha":  0.1001,
+                            "sposob_uzytkowania":  "grunt_zabudowany",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2026.gml"
+    },
+    {
+        "data_aktu":  "2026-03-16",
+        "notariusz":  "Kaczmarek Małgorzata Kancelaria Notarialna",
+        "oznaczenie_dokumentu":  "201 (20139)",
+        "numer_transakcji":  "144152",
+        "rodzaj_transakcji":  "sprzedaz",
+        "rodzaj_rynku":  "wtorny",
+        "strona_sprzedajaca":  "mieszana",
+        "strona_kupujaca":  "mieszana",
+        "cena_transakcji_brutto":  1400000,
+        "rodzaj_nieruchomosci":  "zabudowana",
+        "prawo_do_nieruchomosci":  "wlasnosc",
+        "udzial_w_prawie":  "1/1",
+        "pow_gruntowa_ha":  0.0577,
+        "cena_nieruchomosci_brutto":  1400000,
+        "budynki":  [
+                        {
+                            "id_budynku":  "306401_1.0052.AR_23.93/14.1_BUD",
+                            "ulica":  "ul. Pszczelna",
+                            "numer":  "21",
+                            "rodzaj_budynku":  "mieszkalne_jedno",
+                            "pow_uzytkowa_m2":  null
+                        }
+                    ],
+        "dzialki":  [
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_32.3/6",
+                            "ulica":  null,
+                            "numer":  null,
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0096,
+                            "sposob_uzytkowania":  "grunt_zabudowany",
+                            "cena_dzialki_brutto":  null
+                        },
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_23.93/16",
+                            "ulica":  "ul. Pszczelna",
+                            "numer":  "21",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0099,
+                            "sposob_uzytkowania":  "grunt_zabudowany",
+                            "cena_dzialki_brutto":  null
+                        },
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_23.93/14",
+                            "ulica":  "ul. Pszczelna",
+                            "numer":  "21",
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0355,
+                            "sposob_uzytkowania":  "grunt_zabudowany",
+                            "cena_dzialki_brutto":  null
+                        },
+                        {
+                            "id_dzialki":  "306401_1.0052.AR_32.3/8",
+                            "ulica":  null,
+                            "numer":  null,
+                            "przeznaczenie_mpzp":  "BP",
+                            "pow_ewidencyjna_ha":  0.0027,
+                            "sposob_uzytkowania":  "grunt_zabudowany",
+                            "cena_dzialki_brutto":  null
+                        }
+                    ],
+        "lokale":  [
+
+                   ],
+        "plik_zrodlowy":  "Baza Danych RCN Poznań 2026.gml"
+    }
+]
